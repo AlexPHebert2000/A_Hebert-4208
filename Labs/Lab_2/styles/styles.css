@@ -1,5 +1,17 @@
 /*This is the CSS for Lab 2: CSS Crash Course */
 /* Goal 1: CSS Selectors */
+body {
+  background-color: lightgrey;
+}
+
+.class-selector {
+  text-align: right;
+}
+
+#id-selector {
+  text-align: center;
+}
+
 /* Goal 2: CSS Colors */
 /* Goal 3: CSS Fonts */
 /* Goal 4: CSS Spacing */
