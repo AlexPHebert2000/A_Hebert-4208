@@ -13,6 +13,45 @@ body {
 }
 
 /* Goal 2: CSS Colors */
+.bg-white{
+  background-color: rgb(255,255,255);
+}
+
+.bg-green{
+  background-color: rgb(0, 255, 0);
+}
+
+.bg-blue{
+  background-color: rgb(0, 0, 255);
+}
+
+.bg-red{
+  background-color: rgb(255, 0, 0);
+}
+
+.bg-yellow {
+  background-color: rgb(255, 255, 0);
+}
+
+.bg-dark {
+  background-color: rgb(0,0,0);
+}
+
+.text-red{
+  color: red;
+}
+
+.text-blue{
+  color: blue;
+}
+
+.text-green{
+  color: green;
+}
+
+.text-white{
+  color: white;
+}
 /* Goal 3: CSS Fonts */
 /* Goal 4: CSS Spacing */
 /* Goal 5: CSS Sizing */
