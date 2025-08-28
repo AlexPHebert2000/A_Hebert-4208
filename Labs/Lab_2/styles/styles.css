@@ -77,6 +77,30 @@ body {
   font-family: 'Bangers';
 }
 /* Goal 4: CSS Spacing */
+.outline{
+  outline-width: 3px;
+  outline-style: dashed;
+  outline-color: red;
+}
+
+.border{
+  border-width: 3px;
+  border-style: solid;
+  border-color: blue;
+}
+
+.padding{
+  padding: 20px;
+}
+
+.margin{
+  margin: 20px;
+}
+
+.container{
+  width: 90%;
+  margin: auto;
+}
 /* Goal 5: CSS Sizing */
 /* Goal 6: CSS Backgrounds */
 /* Goal 7: CSS Customizations (to Default HTML Styles) */
