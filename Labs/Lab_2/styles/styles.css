@@ -53,6 +53,29 @@ body {
   color: white;
 }
 /* Goal 3: CSS Fonts */
+.bold{
+  font-weight: bold;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.large-text{
+  font-size: 22px;
+}
+
+.small-text{
+  font-size: small;
+}
+
+.arial-font{
+  font-family: Arial;
+}
+
+.bangers-font{
+  font-family: 'Bangers';
+}
 /* Goal 4: CSS Spacing */
 /* Goal 5: CSS Sizing */
 /* Goal 6: CSS Backgrounds */
