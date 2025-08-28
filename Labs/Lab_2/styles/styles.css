@@ -170,4 +170,30 @@ th {
   background-color: green;
 }
 /* Goal 8: CSS Aligning with Flexbox */
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.left{
+  display: flex;
+  justify-content: left;
+}
+
+.right{
+  display: flex;
+  justify-content: right;
+}
+.justify-space-between{
+  display: flex;
+  justify-content: space-between;
+}
+.justify-space-around{
+  display: flex;
+  justify-content: space-around;
+}
+.justify-space-evenly{
+  display: flex;
+  justify-content: space-evenly;
+}
 /* Goal 9: CSS Aligning with Gridview */
