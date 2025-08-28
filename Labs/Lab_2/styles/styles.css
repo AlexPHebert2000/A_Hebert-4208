@@ -131,5 +131,43 @@ body {
   background-image: linear-gradient(red, yellow);
 }
 /* Goal 7: CSS Customizations (to Default HTML Styles) */
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  color: red;
+}
+
+button:hover{
+  background-color: red;
+}
+
+ul{
+  list-style-image: url('../assets/list-item-image.png');
+  list-style-position: inside;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+  padding: 5px;
+}
+
+tr:nth-child(odd){
+  background-color: silver;
+}
+
+tr:nth-child(even){
+  background-color: white;
+}
+
+th {
+  background-color: green;
+}
 /* Goal 8: CSS Aligning with Flexbox */
 /* Goal 9: CSS Aligning with Gridview */
